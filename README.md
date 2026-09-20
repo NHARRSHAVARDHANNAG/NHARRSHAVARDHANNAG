@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Harshavardhan Nag 👋
 
-<!--
-**NHARRSHAVARDHANNAG/NHARRSHAVARDHANNAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Generative AI | Python | Machine Learning
 
-Here are some ideas to get you started:
+I am a Computer Science graduate interested in building practical AI and
+Generative AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- Python
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- LangChain
+- FastAPI
+- Git
+
+### Current Focus
+
+- Generative AI
+- LLM Applications
+- RAG
+- AI Engineering
+- Machine Learning
+
+### Projects
+
+#### Hotel Bar Inventory Demand Forecasting
+
+Python-based inventory forecasting and replenishment simulation for a
+multi-bar hotel environment.
+
+The project includes:
+
+- Data validation
+- Exploratory data analysis
+- Daily demand aggregation
+- Demand forecasting
+- Par Level calculation
+- Inventory simulation
+
+### Education
+
+B.Tech - Computer Science and Engineering  
+VIT-AP University | 2025
+
+### Connect
+
+LinkedIn: https://www.linkedin.com/in/harrshavardhan/
